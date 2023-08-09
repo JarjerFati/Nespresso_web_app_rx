@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="a30925e1-da40-4408-9be1-e343301aa8b2"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseBrowser"
+	namespace="Nespresso_Web_App">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<closeapprecorditem
+		enabled="True"
+		graceperiod="0ms"
+		method="CloseWindow"
+		optional="False"
+		searchpropertyid="53222e4c-a455-406d-ab74-cd67a977ec9e">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="5710b1e2-a750-43d3-bc66-6caa5e1fd233"
+			sourcename="RepositoryEditor">
+				<path>
+					/form[@processname='chrome']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</closeapprecorditem>
+	</recorditems>
+	<repository
+	id="d0f6b208-0c97-4a12-9599-ed6355405aba"
+	name="Nespresso_Web_AppRepository"
+	relativepath="Nespresso_Web_AppRepository.rxrep">
+		<codegen
+		classname="Nespresso_Web_AppRepository"
+		namespace="Nespresso_Web_App">
+		</codegen>
+		<rootfolder
+		id="f5f247d4-8d09-4a8b-a703-782f7aa1986b"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

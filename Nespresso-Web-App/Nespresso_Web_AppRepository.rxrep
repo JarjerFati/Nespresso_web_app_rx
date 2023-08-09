@@ -1,0 +1,124 @@
+﻿<repository
+id="d0f6b208-0c97-4a12-9599-ed6355405aba"
+name="Nespresso_Web_AppRepository">
+	<codegen
+	classname="Nespresso_Web_AppRepository"
+	namespace="Nespresso_Web_App">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="f5f247d4-8d09-4a8b-a703-782f7aa1986b"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="container,webdocument"
+		capname="webdocument"
+		id="5710b1e2-a750-43d3-bc66-6caa5e1fd233"
+		isrooted="True"
+		name="ApplicationUnderTest"
+		searchtimeout="30000ms"
+		usecache="False">
+			<item
+			addcaps="unknown,webelement,itag"
+			capname="itag"
+			id="257a69e5-2ee6-4472-a958-a6826df8cd93"
+			name="AddToBagButtonSmallIconSignGlyphGly"
+			refimgid="d1e30374-b9ac-4db6-acad-4da7ae36d407"
+			refpath="/dom[@domain='www.nespresso.com']//section[#'special-reserve-edition-exclusive-original']/div[2]/article[1]/div/div/div[2]/div/div/div/button/div/i"
+			robustPath=""
+			searchtimeout="30000ms">
+				/dom[@domain='www.nespresso.com']//section[#'special-reserve-edition-exclusive-original']/div[2]/article[1]/div//button/?/?/i
+			</item>
+			<item
+			addcaps="unknown,webelement,spantag"
+			capname="spantag"
+			id="dcdfdaed-8bb9-492f-ba7a-27069deda156"
+			name="SpanTag20"
+			refimgid="38e84167-3f81-4c60-8892-a682f55c7be6"
+			refpath="/dom[@domain='www.nespresso.com']//div[#'QuantitySelector__wrapper']/div/div/ul/li[3]/button/span[@innertext='20']"
+			robustPath=""
+			searchtimeout="30000ms">
+				/dom[@domain='www.nespresso.com']//div[#'QuantitySelector__wrapper']//ul/li[3]/button/span[@innertext='20']
+			</item>
+			<item
+			addcaps="button,webelement,buttontag"
+			capname="buttontag"
+			id="3b2705cc-29a5-4ea8-901f-6a04e4d6c6e7"
+			name="TaMiniBasketOpen"
+			refimgid="9e0cfef7-0f3a-48da-b7f6-71f584a18224"
+			refpath="/dom[@domain='www.nespresso.com']//button[#'ta-mini-basket__open']"
+			robustPath=""
+			searchtimeout="30000ms">
+				/dom[@domain='www.nespresso.com']//button[#'ta-mini-basket__open']
+			</item>
+			<folder
+			capname="divtag"
+			id="e7e0e21a-fa70-4a81-a329-acf476784663"
+			isrooted="True"
+			name="Header"
+			searchtimeout="30000ms"
+			usecache="False">
+				<item
+				addcaps="unknown,webelement,spantag"
+				capname="spantag"
+				id="c3932aca-78b8-4c52-a866-fd13038e80ec"
+				name="HeaderNavigationBarItemIconSprite"
+				refimgid="e1c3777f-6c7d-4dcc-bef5-6ee8be77d8a5"
+				refpath="/dom[@domain='www.nespresso.com']//div[#'header']/div[4]/div/div/nav/ul/li[1]/a/div/span"
+				robustPath=""
+				searchtimeout="30000ms">
+					/dom[@domain='www.nespresso.com']//div[#'header']//nav/ul/li[1]/a/div/span
+				</item>
+				<item
+				addcaps="unknown,webelement,strongtag"
+				capname="strongtag"
+				id="8263b7cd-f389-45fc-bab1-26bffa5a669c"
+				name="StrongTag3000"
+				refimgid="062e5397-98cc-4ff0-9242-b907a8becb5c"
+				refpath="/dom[@domain='www.nespresso.com']//div[#'header']/div[2]/div/div/div/div/div/div[4]/div/div/div/div[2]/div/table/tbody/tr[2]/td[1]/span[2]/strong[@innertext='30,00€']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/dom[@domain='www.nespresso.com']//div[#'header']/div[2]/div/div/div/div/div/div[4]/div/div/div/div[2]/?/?/table/tbody/tr[2]/td[1]/span[2]/strong[@innertext='30,00€']
+				</item>
+				<item
+				addcaps="unknown,webelement,spantag"
+				capname="spantag"
+				id="b6a9e6d4-3b72-4e3a-ab75-e84bd0b3b343"
+				name="JamaicaBlueMountain"
+				refimgid="d2838cc0-5b73-43da-bd49-8cdce86cda80"
+				refpath="/dom[@domain='www.nespresso.com']//div[#'header']/div[2]/div/div/div/div/div/div[4]/div/div/div/div[2]/div/table/tbody/tr[2]/td[1]/span[@innertext='Jamaica Blue Mountain']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/dom[@domain='www.nespresso.com']//div[#'header']/div[2]/div/div/div/div/div/div[4]/div/div/div/div[2]/?/?/table/tbody/tr[2]/td[1]/span[@innertext='Jamaica Blue Mountain']
+				</item>
+				<basepath>
+					/dom[@domain='www.nespresso.com']//div[#'header']
+				</basepath>
+			</folder>
+			<basepath>
+				/dom[@domain='www.nespresso.com']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGHRFWHRTb2Z0d2FyZQBQYWlu
+dC5ORVQgdjMuMzE3g3eGAAACKklEQVQ4T43R20vTcRjHcS/6G4Kgyy6KKKjwJogIDBJjIBUt2YVD
+yoGVmWUWzozMC92YaWqeSE1s0dThOtjBWUlKkMxDudXU1lCU6XSepzu82+/nvNrX6APP1e95Xt/f
+9/vEbaWh7TO1xi4qmjspfWKhuLqN++VGtLqn5BTVk1lQRbRVHGn4X8nTNclYtD020smBYDjaHhsJ
+cIxPbY8YIr+9viEGgqGwDBxLvixXfGJaLCLdedUfCwRDyPDKWoiF5SAuT0AMSA+2BXhXZqmydFBu
+bkfbmkFpayPOyQW8CwHs7jUxIN1NOkEa1llLGA7bsYX7KbTd4GiuiUuVbxhyzTMwuiwGpFX5lkLU
+dFjJ+55Mw5yGGpsRtX6Kk2Ue9jWewtBRx9eRJTEg7XnWF+TBo25SzUmo3inINLjIKoPD1QXsbNvN
+6fxr9Az5xIDm9kOm5gLce+xEW/aF1BYlCmshSr2PMxm32HV3B8ez0/jQPycG1NklTMxsUGUaQaMD
+lc7EIcse4vXJJF18xX7FVUpq6njd5xUDKVeKcE2v4xib52bxIAdza9mbf4CE9OscUZo5q3nO295p
+zD0zYuBcegHOCb+8KpvDi6G5hRMX8klIKaei6b083PdjCdNHjxhQqO/gcPsj77CB27PO2OQa9j+r
+8tq+/VyODC/yaXBxeyBRlUPv8Dzt3eO86PrNs85Rml7+ot7soLrVTqVpsypMTjGQcD5L/vC/tTkV
+F/cXNG0rDkAnVtkAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>
