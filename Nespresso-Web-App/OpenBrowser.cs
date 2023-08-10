@@ -92,8 +92,8 @@ namespace Nespresso_Web_App
 
             Init();
 
-            Report.Log(ReportLevel.Info, "Website", "Opening web site 'https://www.nespresso.com/fr/en/' with browser specified by variable $varBrowser in normal mode.", new RecordItemIndex(0));
-            Host.Current.OpenBrowser("https://www.nespresso.com/fr/en/", varBrowser, "", false, false, false, false, false, false, false, true);
+            Report.Log(ReportLevel.Info, "Website", "Opening web site 'https://www.nespresso.com/fr/en/' with browser 'Chrome' in normal mode.", new RecordItemIndex(0));
+            Host.Current.OpenBrowser("https://www.nespresso.com/fr/en/", "Chrome", "", false, false, false, false, false, false, false, true);
             Delay.Milliseconds(0);
             
         }

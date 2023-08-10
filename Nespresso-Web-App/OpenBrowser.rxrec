@@ -32,7 +32,7 @@ mode="Desktop">
 	<recorditems>
 		<openwebsiterecorditem
 		args=""
-		browser="chrome"
+		browser="Chrome"
 		clearcache="False"
 		clearcodecache="False"
 		clearcookies="False"
@@ -46,10 +46,6 @@ mode="Desktop">
 			<comment>
 			</comment>
 			<bindings>
-				<binding
-				target="BrowserName"
-				variable="varBrowser">
-				</binding>
 			</bindings>
 			<url>
 				https://www.nespresso.com/fr/en/

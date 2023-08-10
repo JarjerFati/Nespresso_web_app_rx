@@ -42,14 +42,14 @@
 			name="OpenBrowser"
 			ref="b6436d71-fb06-4b59-9c11-11910b4ca801"
 			type="Recording">
-				<databinding>
+				<missingdatabinding>
 					<var
 					dataname="Browsers"
 					datasourceid="7d44bc24-5ddd-4ac4-b5de-7c866ab364cb"
 					variableid="9258042e-5592-41fa-8705-19a68aaa4766"
 					variablename="varBrowser">
 					</var>
-				</databinding>
+				</missingdatabinding>
 			</testmodule>
 			<testmodule
 			id="896ddfdf-fcad-405d-8a79-f4309d407bfe"
@@ -64,7 +64,6 @@
 			type="Recording">
 			</testmodule>
 			<testcase
-			datasource="BrowserList"
 			id="d545d15f-004b-4841-9630-8d9792158d74"
 			name="TestCase">
 			</testcase>
@@ -114,36 +113,6 @@
 		</childhierarchy>
 	</testsuiteentryhierarchy>
 	<datasources>
-		<DataSource
-		id="7d44bc24-5ddd-4ac4-b5de-7c866ab364cb"
-		lastknownrowcount="2"
-		name="BrowserList"
-		type="Ranorex.Core.Data.SimpleDataConnector">
-			<lastknowncolumns>
-				<column>
-					Browsers
-				</column>
-			</lastknowncolumns>
-			<maskedcolumns>
-			</maskedcolumns>
-			<table>
-				<tr>
-					<th>
-						Browsers
-					</th>
-				</tr>
-				<tr>
-					<td>
-						Chrome
-					</td>
-				</tr>
-				<tr>
-					<td>
-						Firefox
-					</td>
-				</tr>
-			</table>
-		</DataSource>
 	</datasources>
 	<testconfigurations
 	default="TestRun">
