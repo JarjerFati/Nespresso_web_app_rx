@@ -1,0 +1,12 @@
+C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\bin\Debug\Nespresso_Web_App.rxtmg
+C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\bin\Debug\Nespresso_Web_App.rxtst
+C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\bin\Debug\Nespresso-Web-App.exe.config
+C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\bin\Debug\Nespresso-Web-App.xml
+C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\bin\Debug\Nespresso-Web-App.exe
+C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\bin\Debug\Nespresso-Web-App.pdb
+C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\obj\x86\Debug\Nespresso-Web-App.csproj.AssemblyReference.cache
+C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\obj\x86\Debug\Nespresso-Web-App.csproj.CoreCompileInputs.cache
+C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\obj\x86\Debug\Nespresso-Web-App.csproj.CopyComplete
+C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\obj\x86\Debug\Nespresso-Web-App.exe
+C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\obj\x86\Debug\Nespresso-Web-App.pdb

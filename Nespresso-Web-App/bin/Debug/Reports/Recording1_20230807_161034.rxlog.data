@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="46.32s"
+		durationms="46320"
+		type="root"
+		rid="2570f29857ad25d0"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="fjarjer"
+		rxversion="10.7.2.0"
+		host="RABJRD07Y22"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="fr-FR"
+		dtnlanguage="fr-FR"
+		screenresolution="1920x1080"
+		timestamp="07/08/2023 16:10:47"
+		timestampiso="2023-08-07T15:10:47"
+		endtime="07/08/2023 16:11:34"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:19.726"
+			timeRelativeToTestModuleStartTime="00:19.726"
+			timeWallClock="16:11:07"
+			time="00:19.726"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Header.HeaderNavigationBarItemIconSprite' at 31;25.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.nespresso.com']//div[#'header']//nav/ul/li[1]/a/div/span"
+				itempath=".//nav/ul/li[1]/a/div/span"
+				fullname="Nespresso_Web_AppRepository.ApplicationUnderTest.Header.HeaderNavigationBarItemIconSprite"
+				id="c3932aca78b84c52a866fd13038e80ec"
+				timeout="90000"
+				codefile="C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\Recording1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:29.032"
+			timeRelativeToTestModuleStartTime="00:29.032"
+			timeWallClock="16:11:16"
+			time="00:29.032"
+			level="Warn"
+			category="Click"
+			errimg="images_Recordin_acc4b7e4\Recordin_493426f3_rxlog.jpg"
+			errthumb="images_Recordin_acc4b7e4\Recordin_493426f3_rxlog_thumb.jpg">
+			<message>
+				The mouse action was performed outside the boundaries of the assigned UI element.<br/>
+			</message>
+			<metainfo
+				codefile="C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\Recording1.cs"
+				codeline="83"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:30.200"
+			timeRelativeToTestModuleStartTime="00:30.200"
+			timeWallClock="16:11:18"
+			time="00:30.200"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.AddToBagButtonSmallIconSignGlyphGly' at 16;20.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.nespresso.com']//section[#'special-reserve-edition-exclusive-original']/div[2]/article[1]/div//button/?/?/i"
+				itempath=".//section[#'special-reserve-edition-exclusive-original']/div[2]/article[1]/div//button/?/?/i"
+				fullname="Nespresso_Web_AppRepository.ApplicationUnderTest.AddToBagButtonSmallIconSignGlyphGly"
+				id="257a69e52ee64472a958a6826df8cd93"
+				timeout="60000"
+				codefile="C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\Recording1.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:39.369"
+			timeRelativeToTestModuleStartTime="00:39.369"
+			timeWallClock="16:11:27"
+			time="00:39.369"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.SpanTag20' at 11;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.nespresso.com']//div[#'QuantitySelector__wrapper']//ul/li[3]/button/span[@innertext='20']"
+				itempath=".//div[#'QuantitySelector__wrapper']//ul/li[3]/button/span[@innertext='20']"
+				fullname="Nespresso_Web_AppRepository.ApplicationUnderTest.SpanTag20"
+				id="dcdfdaed8bb9492fba7a27069deda156"
+				timeout="60000"
+				codefile="C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\Recording1.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:42.177"
+			timeRelativeToTestModuleStartTime="00:42.177"
+			timeWallClock="16:11:30"
+			time="00:42.177"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.TaMiniBasketOpen' at 132;27.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.nespresso.com']//button[#'ta-mini-basket__open']"
+				itempath=".//button[#'ta-mini-basket__open']"
+				fullname="Nespresso_Web_AppRepository.ApplicationUnderTest.TaMiniBasketOpen"
+				id="3b2705cc29a54ea8901f6a04e4d6c6e7"
+				timeout="60000"
+				codefile="C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\Recording1.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:43.545"
+			timeRelativeToTestModuleStartTime="00:43.545"
+			timeWallClock="16:11:31"
+			time="00:43.545"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeEqual (InnerText='Jamaica Blue Mountain') on item 'ApplicationUnderTest.Header.JamaicaBlueMountain'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.nespresso.com']//div[#'header']/div[2]/div/div/div/div/div/div[4]/div/div/div/div[2]/?/?/table/tbody/tr[2]/td[1]/span[@innertext='Jamaica Blue Mountain']"
+				itempath="div[2]/div/div/div/div/div/div[4]/div/div/div/div[2]/?/?/table/tbody/tr[2]/td[1]/span[@innertext='Jamaica Blue Mountain']"
+				fullname="Nespresso_Web_AppRepository.ApplicationUnderTest.Header.JamaicaBlueMountain"
+				id="b6a9e6d43b724e3aab75e84bd0b3b343"
+				timeout="90000"
+				codefile="C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\Recording1.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:45.912"
+			timeRelativeToTestModuleStartTime="00:45.912"
+			timeWallClock="16:11:33"
+			time="00:45.912"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'InnerText' of element for item 'Nespresso_Web_AppRepository.ApplicationUnderTest.Header.JamaicaBlueMountain' does match the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.nespresso.com']//div[#'header']/div[2]/div/div/div/div/div/div[4]/div/div/div/div[2]/?/?/table/tbody/tr[2]/td[1]/span[@innertext='Jamaica Blue Mountain']"
+				itempath="div[2]/div/div/div/div/div/div[4]/div/div/div/div[2]/?/?/table/tbody/tr[2]/td[1]/span[@innertext='Jamaica Blue Mountain']"
+				fullname="Nespresso_Web_AppRepository.ApplicationUnderTest.Header.JamaicaBlueMountain"
+				id="b6a9e6d43b724e3aab75e84bd0b3b343"
+				timeout="90000"
+				codefile="C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\Recording1.cs"
+				codeline="99"
+				loglvl="Success"
+				itemindex="4">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:46.020"
+			timeRelativeToTestModuleStartTime="00:46.020"
+			timeWallClock="16:11:33"
+			time="00:46.020"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeEqual (InnerText='30,00€') on item 'ApplicationUnderTest.Header.StrongTag3000'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.nespresso.com']//div[#'header']/div[2]/div/div/div/div/div/div[4]/div/div/div/div[2]/?/?/table/tbody/tr[2]/td[1]/span[2]/strong[@innertext='30,00€']"
+				itempath="div[2]/div/div/div/div/div/div[4]/div/div/div/div[2]/?/?/table/tbody/tr[2]/td[1]/span[2]/strong[@innertext='30,00€']"
+				fullname="Nespresso_Web_AppRepository.ApplicationUnderTest.Header.StrongTag3000"
+				id="8263b7cdf38945fcbab126bffa5a669c"
+				timeout="90000"
+				codefile="C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\Recording1.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:46.205"
+			timeRelativeToTestModuleStartTime="00:46.205"
+			timeWallClock="16:11:34"
+			time="00:46.205"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'InnerText' of element for item 'Nespresso_Web_AppRepository.ApplicationUnderTest.Header.StrongTag3000' does match the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.nespresso.com']//div[#'header']/div[2]/div/div/div/div/div/div[4]/div/div/div/div[2]/?/?/table/tbody/tr[2]/td[1]/span[2]/strong[@innertext='30,00€']"
+				itempath="div[2]/div/div/div/div/div/div[4]/div/div/div/div[2]/?/?/table/tbody/tr[2]/td[1]/span[2]/strong[@innertext='30,00€']"
+				fullname="Nespresso_Web_AppRepository.ApplicationUnderTest.Header.StrongTag3000"
+				id="8263b7cdf38945fcbab126bffa5a669c"
+				timeout="90000"
+				codefile="C:\Users\fjarjer\Documents\Ranorex\RanorexStudio Projects\Nespresso-Web-App\Nespresso-Web-App\Recording1.cs"
+				codeline="103"
+				loglvl="Success"
+				itemindex="5">
+			</metainfo>
+		</item>
+	</activity>
+</report>

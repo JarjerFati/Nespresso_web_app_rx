@@ -1,0 +1,15 @@
+﻿<Properties>
+  <Array name="active" />
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <Array name="bookmarks" />
+  <Array name="files" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{8C95E4B1-2DCE-4140-BC11-D7BF1ECB437B}</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution Nespresso-Web-App[Nespresso-Web-App[]]]&#xD;&#xA;Solution Nespresso-Web-App\Nespresso-Web-App\Nespresso_Web_App.rxtst&#xD;&#xA;Solution Nespresso-Web-App" />
+  <StartupProject value="{8C95E4B1-2DCE-4140-BC11-D7BF1ECB437B}" />
+</Properties>
